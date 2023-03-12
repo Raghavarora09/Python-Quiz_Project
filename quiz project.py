@@ -315,10 +315,10 @@ def rem0():
 
 
 con=mysql.connect(
-    host="localhost",
-    user="root",
-    password="raghavarora09",
-    database="t20"
+    host="######",
+    user="#####",
+    password="#####",
+    database="####"
     )
 
 cursor=con.cursor()
